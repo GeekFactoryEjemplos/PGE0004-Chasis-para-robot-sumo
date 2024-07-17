@@ -9,6 +9,12 @@ La estuctura para robot sumo es compatible con micro motorreductores metálicos 
 
 El chasis cuenta con diversas perforaciones y ranuras que permiten pasar cables, fijar tarjetas o colocar sensores. La parte posterior del chasis es de acrílico transparente para poder observar la electrónica o colocar algún display o indicador luminoso.
 
+## Incluye
+-8 piezas principales de MDF
+
+-1 tapa posterior de acrílico transparente
+
+-13 x tornillos 1/8 x 3/8
 ## Especificaciones y características
 -Marca: Geek Electronics
 
