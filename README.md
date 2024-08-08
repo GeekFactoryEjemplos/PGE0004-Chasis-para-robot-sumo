@@ -10,56 +10,32 @@ La estuctura para robot sumo es compatible con micro motorreductores metálicos 
 El chasis cuenta con diversas perforaciones y ranuras que permiten pasar cables, fijar tarjetas o colocar sensores. La parte posterior del chasis es de acrílico transparente para poder observar la electrónica o colocar algún display o indicador luminoso.
 
 ## Incluye
--8 piezas principales de MDF
-
--1 tapa posterior de acrílico transparente
-
--13 x tornillos 1/8 x 3/8
+- 8 piezas principales de MDF
+- 1 tapa posterior de acrílico transparente
+- 13 x tornillos 1/8 x 3/8
 ## Especificaciones y características
--Marca: Geek Electronics
-
--Modelo: PGE0004
-
--Tipo de aplicaciónt: Sumo, evasor de obstáculos
-
--Material: MDF 3 mm de espesor
-
--Aplicación: Robots didácticos, STEAM
-
--Electrónica incluida: Ninguna
-
--Controladores sugeridos:
-
--Arduino UNO o Tarjeta compatible con Arduino UNO
-
--Raspberry Pi Pico
-
--Micro:Bit
-
--Motores compatibles
-
--Motorreductor de plástico estándar
-
--Micro motorreaductor N20
-
--Ensamble: Mediante tornillos o con pegamento blanco (permanente)
-
--Diseño totalmente cerrado para el compartimiento de electrónica
-
--Cuenta con diversas perforaciones para el manejo de cables y fijación de tarjetas electrónicas
-
--Fabricación en corte láser de gran calidad y exactitud en las piezas
-
--Armado con tornillos estándar fáciles de reponer en caso de perdida
-
--Peso bruto (sin electrónica ni motores): 120 gramos
-
--Dimensiones al ensamblar
-
--Largo: 15 cm
-
--Ancho: 13.5 cm
-
--Alto: 8.5 cm
+- Marca: Geek Electronics
+- Modelo: PGE0004
+- Tipo de aplicaciónt: Sumo, evasor de obstáculos
+- Material: MDF 3 mm de espesor
+- Aplicación: Robots didácticos, STEAM
+- Electrónica incluida: Ninguna
+- Controladores sugeridos:
+- Arduino UNO o Tarjeta compatible con Arduino UNO
+- Raspberry Pi Pico
+- Micro:Bit
+- Motores compatibles
+- Motorreductor de plástico estándar
+- Micro motorreaductor N20
+- Ensamble: Mediante tornillos o con pegamento blanco (permanente)
+- Diseño totalmente cerrado para el compartimiento de electrónica
+- Cuenta con diversas perforaciones para el manejo de cables y fijación de tarjetas electrónicas
+- Fabricación en corte láser de gran calidad y exactitud en las piezas
+- Armado con tornillos estándar fáciles de reponer en caso de perdida
+- Peso bruto (sin electrónica ni motores): 120 gramos
+- Dimensiones al ensamblar
+- Largo: 15 cm
+- Ancho: 13.5 cm
+- Alto: 8.5 cm
 
 
